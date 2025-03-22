@@ -1,0 +1,1 @@
+This is a general script for DAS data processing for specific geothermal case 
